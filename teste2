@@ -1,0 +1,4 @@
+from testgit import maisUm 
+
+print(maisUm(8))
+
